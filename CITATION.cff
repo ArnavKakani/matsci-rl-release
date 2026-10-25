@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Find the Holes: code for auditing thermodynamic-stability rewards"
+authors:
+  - family-names: Kakani
+    given-names: Arnav
+  - family-names: Suravarjjala
+    given-names: Nikhilesh
+license: MIT
+repository-code: "https://github.com/ArnavKakani/matsci-rl-release"
+preferred-citation:
+  type: article
+  title: "Optimizers Find the Holes: The Optimizer's Curse in Thermodynamic-Stability Rewards for Generative Materials Design"
+  authors:
+    - family-names: Kakani
+      given-names: Arnav
+    - family-names: Suravarjjala
+      given-names: Nikhilesh
+  year: 2026
+  status: preprint

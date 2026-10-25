@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# never commit run outputs
+scratch/
+runs/
+judged/
+*.jsonl
+*.jsonl.gz
+*.pkl
+*.pkl.gz
+*.csv
+*.csv.gz
+*.pw.out

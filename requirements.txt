@@ -1,0 +1,13 @@
+# Steps 1-7 (Python 3.10 or 3.11). Versions are not pinned except where the runs needed it.
+numpy
+pandas
+scipy
+pyarrow
+pymatgen
+ase
+torch
+mace-torch
+chgnet
+orb-models
+mattersim
+e3nn==0.4.4

@@ -1,0 +1,6 @@
+# Step 8 (CrystalFormer RL). Also needs BatchRelaxer (github.com/zdcao121/BatchRelaxer) and a CrystalFormer checkout.
+jax[cuda12]
+dm-haiku==0.0.15
+optax==0.2.6
+pyxtal==1.1.1
+joblib
